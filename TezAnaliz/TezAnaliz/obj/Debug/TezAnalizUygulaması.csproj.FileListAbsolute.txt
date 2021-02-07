@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TezAnalizUygulaması.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TezAnalizUygulaması.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TezAnalizUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Spire.License.dll
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Spire.Pdf.dll
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Spire.Doc.xml
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Spire.License.xml
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\Spire.Pdf.xml
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TezAnalizUygulaması.csproj.CopyComplete
+C:\Users\Administrator\Desktop\tezanaliz-master\proje\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\TezAnaliz.Form1.resources
